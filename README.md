@@ -6,6 +6,10 @@
 
 从iOS 方向入门，所以只有iOS相关的开发
 
+![image](http://github.com/liuyongjiesai/ReactNativeLearning/raw/master/Images/shoot.png)
+
+代码全部来自ReactNative中文网 https://reactnative.cn/docs/0.51/getting-started.html
+
 # 注意事项
 
 下载完成后cd test33 目录下，执行npm install 操作安装相关组件
